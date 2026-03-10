@@ -44,12 +44,6 @@ I exported the simulation results to Tableau to create a series of high-impact c
 
 ### 🚀 Getting Started
 
-#### Prerequisites
-
-Bash
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   pip install pandas numpy matplotlib seaborn   `
-
 #### Running the Simulation
 
 1.  Bashgit clone https://github.com/rupam0708/Customer\_Satisfaction\_Estimation\_with\_Sampling\_Confidence\_Intervals.git
