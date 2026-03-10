@@ -70,5 +70,5 @@ I exported the simulation results to Tableau to create a series of high-impact c
 
 *   **LinkedIn:** [in/rupam0708](https://www.linkedin.com/in/rupam0708/)
     
-*   **Portfolio:** Flutter Developer & Full-Stack Mobile Developer | MBA Candidate 2026-28
+*   **Portfolio:** Flutter Developer & Full-Stack Mobile Developer
 
